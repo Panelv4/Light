@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Light",
+      "hasCanvas": false,
+      "bodyTextLen": 230,
+      "bodyTextHash": "16de46daba472236cb048d0a50b097c3082b56d70a8e1003a74bd2d3a9dced79",
+      "bodyTextPrefix": "Light [ L ] You wake up in the void where you once belonged. Fig",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Light",
+      "hasCanvas": false,
+      "bodyTextLen": 230,
+      "bodyTextHash": "16de46daba472236cb048d0a50b097c3082b56d70a8e1003a74bd2d3a9dced79",
+      "bodyTextPrefix": "Light [ L ] You wake up in the void where you once belonged. Fig",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
